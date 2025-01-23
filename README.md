@@ -44,8 +44,20 @@ In the initial data preparation stage, we carried out the following tasks:
 We explored the customer data to get answers to questions such as:
 
 - Who make up the majority of customers for the store?
+  
+![histo](https://github.com/user-attachments/assets/3d5b1923-20a8-40d0-bdde-21c5a525271c)
+![Pie1](https://github.com/user-attachments/assets/10c0d6be-848b-4dfc-9499-8daaa9933391)
+![Pie2](https://github.com/user-attachments/assets/d2ac23f4-0f89-4322-b41b-e37c635c41ae)
+
 - Which customer factors have an influence in generating the most revenue?
+  
+![edubar](https://github.com/user-attachments/assets/a5f91238-071c-4f6a-8288-04812c2f56aa)
+![kidsbar](https://github.com/user-attachments/assets/ec589632-1fcc-41bb-aa99-23467e85ddee)
+![maritalbar](https://github.com/user-attachments/assets/c6067daf-eceb-4801-9415-0832221bcce7)
+
 - What are the key groups of customers and how do they contribute to the sales?
+  ![cluster](https://github.com/user-attachments/assets/d600c0db-c298-4054-8a0f-fe84b331044b)
+
 
 ### Data Analysis
 
